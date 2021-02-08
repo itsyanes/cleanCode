@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "wassup",
+    "Author": "heey",
+    "Content": "this is a great exmeple",
+    "Borrower": null,
+    "BorrowDate": "0001-01-01T00:00:00"
+  },
+  {
+    "Title": "wassup2",
+    "Author": "heey2",
+    "Content": "this is a great exmeple2",
+    "Borrower": null,
+    "BorrowDate": "0001-01-01T00:00:00"
+  },
+  {
+    "Title": "How to make money",
+    "Author": "John Cena",
+    "Content": "this is a great exmeple3",
+    "Borrower": "john",
+    "BorrowDate": "2021-02-08T22:44:55.3791541+01:00"
+  },
+  {
+    "Title": "Dummies",
+    "Author": "Undertaker",
+    "Content": "this is a great exmeple4",
+    "Borrower": null,
+    "BorrowDate": "0001-01-01T00:00:00"
+  }
+]
